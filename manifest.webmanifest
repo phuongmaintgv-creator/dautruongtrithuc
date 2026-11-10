@@ -1,0 +1,16 @@
+{
+  "name": "Đấu trường Tri thức",
+  "short_name": "Đấu trường",
+  "description": "Học Tin học qua bài tập trò chơi, ôn tập, kiểm tra — cô Ngô Thị Phương Mai, THCS Chánh Hưng",
+  "lang": "vi",
+  "start_url": "./?app=1",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0b1a2c",
+  "theme_color": "#0b1a2c",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
